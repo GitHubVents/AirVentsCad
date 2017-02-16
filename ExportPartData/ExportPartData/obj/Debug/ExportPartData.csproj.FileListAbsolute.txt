@@ -1,0 +1,28 @@
+D:\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\ExportPartData.dll
+D:\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\ExportPartData.pdb
+D:\Projects VisualStudio\Source\ExportPartData\ExportPartData\obj\Debug\ExportPartData.dll
+D:\Projects VisualStudio\Source\ExportPartData\ExportPartData\obj\Debug\ExportPartData.pdb
+D:\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\ExportPartData.tlb
+D:\Projects VisualStudio\Source\ExportPartData\ExportPartData\obj\Debug\ExportPartData.csprojResolveAssemblyReference.cache
+D:\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\ExportPartData.dll.config
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\ExportPartData.dll.config
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\ExportPartData.dll
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\ExportPartData.pdb
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\ExportPartData.tlb
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\obj\Debug\ExportPartData.dll
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\obj\Debug\ExportPartData.pdb
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\MakeDxfUpdatePartData.dll
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\Interop.EdmLib.dll
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\FixBends.dll
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\MakeDxfUpdatePartData.pdb
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\MakeDxfUpdatePartData.xml
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Debug\FixBends.pdb
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\bin\Debug\ExportPartData.dll.config
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\bin\Debug\ExportPartData.dll
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\bin\Debug\ExportPartData.pdb
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\bin\Debug\ExportPartData.tlb
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\obj\Debug\ExportPartData.dll
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\obj\Debug\ExportPartData.pdb
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\obj\Debug\Interop.EPDMLibLib.dll
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\obj\Debug\ExportPartData.csproj.ResolveComReference.cache
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\obj\Debug\ExportPartData.csprojResolveAssemblyReference.cache

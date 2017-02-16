@@ -1,0 +1,50 @@
+﻿Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe
+Устанавливается служба BomService...
+Создается исходный EventLog BomService в журнале Application...
+Выполняется откат для сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe
+Восстанавливается исходное состояние журнала событий для источника BomService.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe
+Устанавливается служба BomService...
+Создается исходный EventLog BomService в журнале Application...
+Выполняется откат для сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe
+Восстанавливается исходное состояние журнала событий для источника BomService.
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe
+Выполняется удаление источника EventLog BomService.
+Предупреждение. Источник BomService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы BomService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe
+Устанавливается служба BomService...
+Создается исходный EventLog BomService в журнале Application...
+Выполняется откат для сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe
+Восстанавливается исходное состояние журнала событий для источника BomService.

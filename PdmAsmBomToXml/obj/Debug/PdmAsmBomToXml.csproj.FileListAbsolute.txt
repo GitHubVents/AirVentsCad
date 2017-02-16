@@ -1,0 +1,12 @@
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\PdmAsmBomToXml\bin\Debug\PdmAsmBomToXml.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\PdmAsmBomToXml\bin\Debug\PdmAsmBomToXml.pdb
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\PdmAsmBomToXml\obj\Debug\PdmAsmBomToXml.csprojResolveAssemblyReference.cache
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\PdmAsmBomToXml\obj\Debug\PdmAsmBomToXml.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\PdmAsmBomToXml\obj\Debug\PdmAsmBomToXml.pdb
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\bin\Debug\PdmAsmBomToXml.dll
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\bin\Debug\PdmAsmBomToXml.pdb
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\obj\Debug\PdmAsmBomToXml.dll
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\obj\Debug\PdmAsmBomToXml.pdb
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\obj\Debug\Interop.EPDMLibLib.dll
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\obj\Debug\PdmAsmBomToXml.csproj.ResolveComReference.cache
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\obj\Debug\PdmAsmBomToXml.csprojResolveAssemblyReference.cache

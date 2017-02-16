@@ -1,0 +1,19 @@
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Release\ExportPartData.dll.config
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Release\ExportPartData.dll
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Release\ExportPartData.pdb
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\obj\Release\ExportPartData.csprojResolveAssemblyReference.cache
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\obj\Release\ExportPartData.dll
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\obj\Release\ExportPartData.pdb
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Release\MakeDxfUpdatePartData.dll
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Release\Interop.EdmLib.dll
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Release\FixBends.dll
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Release\MakeDxfUpdatePartData.pdb
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Release\MakeDxfUpdatePartData.xml
+D:\Новая папка\Projects VisualStudio\Source\ExportPartData\ExportPartData\bin\Release\FixBends.pdb
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\bin\Release\ExportPartData.dll.config
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\bin\Release\ExportPartData.dll
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\bin\Release\ExportPartData.pdb
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\obj\Release\ExportPartData.dll
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\obj\Release\ExportPartData.pdb
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\obj\Release\Interop.EPDMLibLib.dll
+D:\Vlad\AirVentsCad\ExportPartData\ExportPartData\obj\Release\ExportPartData.csproj.ResolveComReference.cache

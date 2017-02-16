@@ -1,0 +1,37 @@
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.dll
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.pdb
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.csprojResolveAssemblyReference.cache
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\Interop.EdmLib.dll
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.csproj.ResolveComReference.cache
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.dll
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.pdb
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\Interop.EdmLib.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\Interop.EdmLib.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\Interop.EdmLib.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.csproj.ResolveComReference.cache
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.csprojResolveAssemblyReference.cache
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.XML
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.XML
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.dll
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.pdb
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\Interop.EdmLib.dll
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.csprojResolveAssemblyReference.cache
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\Interop.EdmLib.dll
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.csproj.ResolveComReference.cache
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.dll
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.pdb
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\FixBends.dll
+D:\Projects VisualStudio\Projects VS2012\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\FixBends.pdb
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.XML
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.dll
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\MakeDxfUpdatePartData.pdb
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\FixBends.pdb
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.csproj.ResolveComReference.cache
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.dll
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\MakeDxfUpdatePartData.pdb
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Debug\FixBends.dll
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Debug\Interop.EPDMLibLib.dll

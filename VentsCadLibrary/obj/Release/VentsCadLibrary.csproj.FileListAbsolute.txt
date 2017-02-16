@@ -1,0 +1,14 @@
+D:\Vlad\AirVentsCad\VentsCadLibrary\bin\Release\VentsCadLibrary.dll.config
+D:\Vlad\AirVentsCad\VentsCadLibrary\bin\Release\VentsCadLibrary.dll
+D:\Vlad\AirVentsCad\VentsCadLibrary\bin\Release\VentsCadLibrary.pdb
+D:\Vlad\AirVentsCad\VentsCadLibrary\bin\Release\AddinConvertTo.dll
+D:\Vlad\AirVentsCad\VentsCadLibrary\bin\Release\ExportPartData.dll
+D:\Vlad\AirVentsCad\VentsCadLibrary\bin\Release\PdmAsmBomToXml.dll
+D:\Vlad\AirVentsCad\VentsCadLibrary\bin\Release\AddinConvertTo.pdb
+D:\Vlad\AirVentsCad\VentsCadLibrary\bin\Release\ExportPartData.pdb
+D:\Vlad\AirVentsCad\VentsCadLibrary\bin\Release\PdmAsmBomToXml.pdb
+D:\Vlad\AirVentsCad\VentsCadLibrary\obj\Release\Interop.EPDMLibLib.dll
+D:\Vlad\AirVentsCad\VentsCadLibrary\obj\Release\VentsCadLibrary.csproj.ResolveComReference.cache
+D:\Vlad\AirVentsCad\VentsCadLibrary\obj\Release\VentsCadLibrary.dll
+D:\Vlad\AirVentsCad\VentsCadLibrary\obj\Release\VentsCadLibrary.pdb
+D:\Vlad\AirVentsCad\VentsCadLibrary\obj\Release\VentsCadLibrary.csprojResolveAssemblyReference.cache

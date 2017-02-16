@@ -1,0 +1,38 @@
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\VentsCadService.exe.config
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\VentsCadService.exe
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\VentsCadService.pdb
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\VentsCadServiceLibrary.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\VentsCadServiceLibrary.pdb
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.csprojResolveAssemblyReference.cache
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.Form1.resources
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.Properties.Resources.resources
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.csproj.GenerateResource.Cache
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.exe
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.pdb
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\VentsCadLibrary.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\Interop.EdmLib.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\MakeDxfUpdatePartData.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\VentsCadLibrary.pdb
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\MakeDxfUpdatePartData.pdb
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\MakeDxfUpdatePartData.xml
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadService\bin\Debug\AddinConvertTo.dll
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\VentsCadService.exe.config
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\VentsCadService.exe
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\VentsCadService.pdb
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\VentsCadServiceLibrary.dll
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\VentsCadLibrary.dll
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\AddinConvertTo.dll
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\MakeDxfUpdatePartData.dll
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\VentsCadServiceLibrary.pdb
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\VentsCadLibrary.pdb
+D:\Vlad\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.csprojResolveAssemblyReference.cache
+D:\Vlad\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.Form1.resources
+D:\Vlad\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.Properties.Resources.resources
+D:\Vlad\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.csproj.GenerateResource.Cache
+D:\Vlad\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.exe
+D:\Vlad\AirVentsCad\VentsCadService\obj\Debug\VentsCadService.pdb
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\ExportPartData.dll
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\PdmAsmBomToXml.dll
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\AddinConvertTo.pdb
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\ExportPartData.pdb
+D:\Vlad\AirVentsCad\VentsCadService\bin\Debug\PdmAsmBomToXml.pdb

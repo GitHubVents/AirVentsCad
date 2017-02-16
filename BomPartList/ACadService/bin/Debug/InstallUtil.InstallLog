@@ -1,0 +1,240 @@
+﻿
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба была отмечена для удаления
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба была отмечена для удаления
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.

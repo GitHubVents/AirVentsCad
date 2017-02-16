@@ -1,0 +1,7 @@
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\bin\Release\PdmAsmBomToXml.dll
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\bin\Release\PdmAsmBomToXml.pdb
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\obj\Release\PdmAsmBomToXml.dll
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\obj\Release\PdmAsmBomToXml.pdb
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\obj\Release\Interop.EPDMLibLib.dll
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\obj\Release\PdmAsmBomToXml.csproj.ResolveComReference.cache
+D:\Vlad\AirVentsCad\PdmAsmBomToXml\obj\Release\PdmAsmBomToXml.csprojResolveAssemblyReference.cache

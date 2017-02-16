@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="BomServiceWindowsNT.exe" version="1.0.0.0" publicKeyToken="39f1096c70bfd348" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BomServiceWindowsNT" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="BomServiceWindowsNT.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BomPartList.dll" size="45056">
+      <assemblyIdentity name="BomPartList" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Efwz3C17CqzUrejSPrXTqurYiUtPkURfB3nV4PQLMOc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BomServiceWindowsNT.exe" size="7680">
+      <assemblyIdentity name="BomServiceWindowsNT" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>rj3c2H/iE5JBRgS+xg1Cf4DkUGcHAb2mC9WvkWt+aHY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GetBomService.exe" size="12288">
+      <assemblyIdentity name="GetBomService" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>aKBG4hqOO7i5OmiWLlIzkCQfC9gp2Vv/99rcUxT7OHs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.EdmLib.dll" size="183808">
+      <assemblyIdentity name="Interop.EdmLib" version="5.16.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nL+Ig9VmCoeGueAj1q+z88chaB5YyjI0sK9qSpWpSyw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MakeDxfUpdatePartData.dll" size="31744">
+      <assemblyIdentity name="MakeDxfUpdatePartData" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gvTLg5oQf6Th4L9zjQm9gkhwPvitDPkPcv709TuR2xM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VentsMaterials.dll" size="38912">
+      <assemblyIdentity name="VentsMaterials" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>L2Eevc6WLtfq0vU7tXdzyqSMAcONhAuYSqIfzcmHxAs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BomServiceWindowsNT.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=VENTS\kb81" issuerKeyHash="6490aa93db877fb3524c62a8db29eaafce83e200" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>c1OS0DntOdQd0C0eyWkoSQRdNdnraLcb1Bp2XAfFPnU=</DigestValue></Reference></SignedInfo><SignatureValue>IzDMSg57g5kT26FneRMxrFDndnZMsxW92SNdSCejTFn8n3gMUHeZdueID22tNCD2Gza+Ebt+SPkjSjp3HTuHzAxa3nndpqYrDT8CCNBgPPmgTA3B9LOx+XBVvbk54pFORF7AppbUwdOJLs+5hztjAkpJGuMchOnW7JfE9vrG5zw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xr0X4nz5Ez2Lu7PiA6G8E5OJJNwBIWlhxES22CuafjjABjrCfxz5CS51jeoOFdVTa6bDKJfaobKZlxtI3NRHOp4/BEp3I7sYmc2CsCPk8jhyrzBWAILPWUbSZ482BP7R7wmVvj6G7f0K7N0wisbdp1llVRbz4vD6E5CqhtMwwVU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="753ec5075c761ad41bb768ebd9355d04492869c91e2dd01dd439ed39d0925373" Description="" Url=""><as:assemblyIdentity name="BomServiceWindowsNT.exe" version="1.0.0.0" publicKeyToken="39f1096c70bfd348" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=VENTS\kb81</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ET0jf71/Ff+TU5hGL7AUrV8guseoSwXogVzsIYlIOFQ=</DigestValue></Reference></SignedInfo><SignatureValue>UqAY77GiONXN5rph5rwI0J8eNOyGeslMNM/ZuQ5qc1cDhyxztPLTpVKeH0lVDl7IYuvqvf1Tm4tKX+sTOvfifQJmyjKIKybA0ljo6dKpAo2gDRW4jS8jjqghmNEdxIN/51Lo1Q+yeWYSX0zGHNHweqWu9TEoyv5vIisKXeCipMY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xr0X4nz5Ez2Lu7PiA6G8E5OJJNwBIWlhxES22CuafjjABjrCfxz5CS51jeoOFdVTa6bDKJfaobKZlxtI3NRHOp4/BEp3I7sYmc2CsCPk8jhyrzBWAILPWUbSZ482BP7R7wmVvj6G7f0K7N0wisbdp1llVRbz4vD6E5CqhtMwwVU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQJzxd+7OwoJZHMLylj+vBwzANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQAVgBFAE4AVABTAFwAawBiADgAMTAeFw0xNDEyMDMwODAyNDVaFw0xNTEyMDMxNDAyNDVaMB8xHTAbBgNVBAMeFABWAEUATgBUAFMAXABrAGIAOAAxMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGvRfifPkTPYu7s+IDobwTk4kk3AEhaWHERLbYK5p+OMAGOsJ/HPkJLnWN6g4V1VNrpsMol9qhspmXG0jc1Ec6nj8ESncjuxiZzYKwI+TyOHKvMFYAgs9ZRtJnjzYE/tHvCZW+Pobt/Qrs3TCKxt2nWWVVFvPi8PoTkKqG0zDBVQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAK6kI5IMf6BHQmk0DM49H9xqfkMossRB2OSSRD0QzHaGLk2M4U0YUxmnisaK0orJzqX7cTlOD1tcEAYv8ANiy9WihQqQkMwEZKvlBMt5X78wKyIvQPiuZzJE1ibtQoo+bX4oDn4BB9b1ECi+DBRFhVuCa3oBPm8y++CAq5DW6m5I</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,41 @@
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\obj\Debug\BomPartList.csprojResolveAssemblyReference.cache
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\obj\Debug\Interop.EdmLib.dll
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\obj\Debug\BomPartList.csproj.ResolveComReference.cache
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\BomPartList.dll
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\BomPartList.pdb
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\Interop.EdmLib.dll
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\obj\Debug\BomPartList.dll
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\obj\Debug\BomPartList.pdb
+C:\Users\kb81\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\BomPartList.XML
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\BomPartList.XML
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\BomPartList.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\BomPartList.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\Interop.EdmLib.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\obj\Debug\BomPartList.csprojResolveAssemblyReference.cache
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\obj\Debug\Interop.EdmLib.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\obj\Debug\BomPartList.csproj.ResolveComReference.cache
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\obj\Debug\BomPartList.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\obj\Debug\BomPartList.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\VentsMaterials.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\MakeDxfUpdatePartData.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\MakeDxfUpdatePartData.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\NLog.config
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\MakeDxfUpdatePartData.xml
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomPartList\bin\Debug\BomPartList.dll.config
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\obj\Debug\BomPartList.csprojResolveAssemblyReference.cache
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\obj\Debug\BomPartList.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\obj\Debug\BomPartList.pdb
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\NLog.config
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\BomPartList.dll.config
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\BomPartList.XML
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\BomPartList.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\BomPartList.pdb
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\MakeDxfUpdatePartData.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\VentsMaterials.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\VentsPDM-dll.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\FixBends.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\MakeDxfUpdatePartData.pdb
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\MakeDxfUpdatePartData.xml
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\VentsMaterials.pdb
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\VentsPDM-dll.pdb
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Debug\FixBends.pdb

@@ -1,0 +1,14 @@
+D:\C#Projects\VentsMaterials - DLL\VentsMaterials - DLL\bin\Debug\VentsMaterials.dll
+D:\C#Projects\VentsMaterials - DLL\VentsMaterials - DLL\bin\Debug\VentsMaterials.pdb
+D:\C#Projects\VentsMaterials - DLL\VentsMaterials - DLL\obj\Debug\VentsMaterials.dll
+D:\C#Projects\VentsMaterials - DLL\VentsMaterials - DLL\obj\Debug\VentsMaterials.pdb
+D:\C#Projects\VentsMaterials - DLL\VentsMaterials - DLL\obj\Debug\VentsMaterials - DLL.csprojResolveAssemblyReference.cache
+D:\C#Projects\2. VentsMaterials - DLL\VentsMaterials - DLL\bin\Debug\VentsMaterials.dll
+D:\C#Projects\2. VentsMaterials - DLL\VentsMaterials - DLL\bin\Debug\VentsMaterials.pdb
+D:\C#Projects\2. VentsMaterials - DLL\VentsMaterials - DLL\obj\Debug\VentsMaterials.dll
+D:\C#Projects\2. VentsMaterials - DLL\VentsMaterials - DLL\obj\Debug\VentsMaterials.pdb
+D:\C#Projects\2. VentsMaterials - DLL\VentsMaterials - DLL\obj\Debug\VentsMaterials - DLL.csprojResolveAssemblyReference.cache
+D:\Vlad\AirVentsCad\2. VentsMaterials - DLL\VentsMaterials - DLL\bin\Debug\VentsMaterials.dll
+D:\Vlad\AirVentsCad\2. VentsMaterials - DLL\VentsMaterials - DLL\bin\Debug\VentsMaterials.pdb
+D:\Vlad\AirVentsCad\2. VentsMaterials - DLL\VentsMaterials - DLL\obj\Debug\VentsMaterials.dll
+D:\Vlad\AirVentsCad\2. VentsMaterials - DLL\VentsMaterials - DLL\obj\Debug\VentsMaterials.pdb

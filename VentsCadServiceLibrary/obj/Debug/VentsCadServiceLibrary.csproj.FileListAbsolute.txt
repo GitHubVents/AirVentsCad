@@ -1,0 +1,26 @@
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\bin\Debug\VentsCadServiceLibrary.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\bin\Debug\VentsCadServiceLibrary.pdb
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\obj\Debug\VentsCadServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\obj\Debug\VentsCadServiceLibrary.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\obj\Debug\VentsCadServiceLibrary.pdb
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\bin\Debug\VentsCadLibrary.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\bin\Debug\Interop.EdmLib.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\bin\Debug\MakeDxfUpdatePartData.dll
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\bin\Debug\VentsCadLibrary.pdb
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\bin\Debug\MakeDxfUpdatePartData.pdb
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\bin\Debug\MakeDxfUpdatePartData.xml
+D:\Projects VisualStudio\Source\Repos\AirVentsCad\VentsCadServiceLibrary\bin\Debug\AddinConvertTo.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\VentsCadServiceLibrary.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\VentsCadServiceLibrary.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\VentsCadLibrary.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\AddinConvertTo.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\MakeDxfUpdatePartData.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\VentsCadLibrary.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\obj\Debug\VentsCadServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\obj\Debug\VentsCadServiceLibrary.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\obj\Debug\VentsCadServiceLibrary.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\ExportPartData.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\PdmAsmBomToXml.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\AddinConvertTo.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\ExportPartData.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Debug\PdmAsmBomToXml.pdb

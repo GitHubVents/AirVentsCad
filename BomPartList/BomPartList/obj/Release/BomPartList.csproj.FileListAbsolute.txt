@@ -1,0 +1,16 @@
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\NLog.config
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\BomPartList.dll.config
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\BomPartList.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\BomPartList.pdb
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\MakeDxfUpdatePartData.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\VentsMaterials.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\VentsPDM-dll.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\FixBends.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\MakeDxfUpdatePartData.pdb
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\MakeDxfUpdatePartData.xml
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\VentsMaterials.pdb
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\FixBends.pdb
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\obj\Release\BomPartList.csprojResolveAssemblyReference.cache
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\obj\Release\BomPartList.dll
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\obj\Release\BomPartList.pdb
+D:\Vlad\AirVentsCad\BomPartList\BomPartList\bin\Release\VentsPDM-dll.pdb

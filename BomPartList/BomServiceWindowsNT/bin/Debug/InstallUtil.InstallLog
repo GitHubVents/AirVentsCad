@@ -1,0 +1,58 @@
+﻿
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog.
+
+На этапе установки возникло исключение.
+System.InvalidOperationException: Сбой при установке из-за отсутствия ServiceProcessInstaller. ServiceProcessInstaller должен либо являться вмещающей программой установки, либо присутствовать в коллекции Installers для той же программы установки, что и ServiceInstaller.
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog.
+
+На этапе установки возникло исключение.
+System.InvalidOperationException: Сбой при установке из-за отсутствия ServiceProcessInstaller. ServiceProcessInstaller должен либо являться вмещающей программой установки, либо присутствовать в коллекции Installers для той же программы установки, что и ServiceInstaller.
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog.
+
+На этапе установки возникло исключение.
+System.InvalidOperationException: Сбой при установке из-за отсутствия ServiceProcessInstaller. ServiceProcessInstaller должен либо являться вмещающей программой установки, либо присутствовать в коллекции Installers для той же программы установки, что и ServiceInstaller.
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.exe.
+Данный файл находится в C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\BomServiceWindowsNT\bin\Debug\BomServiceWindowsNT.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.

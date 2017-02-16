@@ -1,0 +1,9 @@
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Release\MakeDxfUpdatePartData.csproj.ResolveComReference.cache
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Release\MakeDxfUpdatePartData.dll
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Release\MakeDxfUpdatePartData.pdb
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Release\FixBends.dll
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\bin\Release\FixBends.pdb
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Release\MakeDxfUpdatePartData.dll
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Release\MakeDxfUpdatePartData.pdb
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Release\Interop.EPDMLibLib.dll
+D:\Vlad\AirVentsCad\MakeDxfUpdatePartData\MakeDxfUpdatePartData\obj\Release\MakeDxfUpdatePartData.csprojResolveAssemblyReference.cache

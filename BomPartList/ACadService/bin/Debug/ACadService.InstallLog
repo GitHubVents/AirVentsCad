@@ -1,0 +1,240 @@
+﻿Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Служба AirVentsCadService успешно установлена.
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется откат для сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Восстанавливается исходное состояние журнала событий для источника AirVentsCadService.
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Выполняется удаление службы AirVentsCadService из системы...
+Служба AirVentsCadService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Служба AirVentsCadService успешно установлена.
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Выполняется удаление службы AirVentsCadService из системы...
+Служба AirVentsCadService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется откат для сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Восстанавливается исходное состояние журнала событий для источника AirVentsCadService.
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Предупреждение. Источник AirVentsCadService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы AirVentsCadService из системы...
+Служба AirVentsCadService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется откат для сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Восстанавливается исходное состояние журнала событий для источника AirVentsCadService.
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Предупреждение. Источник AirVentsCadService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы AirVentsCadService из системы...
+Служба AirVentsCadService успешно удалена из системы.
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Предупреждение. Источник AirVentsCadService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы AirVentsCadService из системы...
+Служба AirVentsCadService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Служба AirVentsCadService успешно установлена.
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Выполняется удаление службы AirVentsCadService из системы...
+Служба AirVentsCadService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Служба AirVentsCadService успешно установлена.
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Выполняется удаление службы AirVentsCadService из системы...
+Служба AirVentsCadService успешно удалена из системы.
+Попытка останова службы AirVentsCadService.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Служба AirVentsCadService успешно установлена.
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Выполняется удаление службы AirVentsCadService из системы...
+Служба AirVentsCadService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Служба AirVentsCadService успешно установлена.
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Выполняется удаление службы AirVentsCadService из системы...
+Служба AirVentsCadService успешно удалена из системы.
+Попытка останова службы AirVentsCadService.
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Предупреждение. Источник AirVentsCadService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы AirVentsCadService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Служба AirVentsCadService успешно установлена.
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Выполняется удаление источника EventLog AirVentsCadService.
+Выполняется удаление службы AirVentsCadService из системы...
+Служба AirVentsCadService успешно удалена из системы.
+Попытка останова службы AirVentsCadService.
+Выполняется установка сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe
+Устанавливается служба AirVentsCadService...
+Служба AirVentsCadService успешно установлена.
+Создается исходный EventLog AirVentsCadService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.InstallLog
+   assemblypath = C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\BomPartList\ACadService\bin\Debug\ACadService.exe

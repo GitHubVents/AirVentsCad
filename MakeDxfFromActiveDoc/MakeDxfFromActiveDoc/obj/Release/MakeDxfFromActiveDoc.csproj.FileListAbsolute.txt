@@ -1,0 +1,4 @@
+D:\Vlad\AirVentsCad\MakeDxfFromActiveDoc\MakeDxfFromActiveDoc\obj\Release\MakeDxfFromActiveDoc.csprojResolveAssemblyReference.cache
+D:\Vlad\AirVentsCad\MakeDxfFromActiveDoc\MakeDxfFromActiveDoc\obj\Release\MakeDxfFromActiveDoc.Form1.resources
+D:\Vlad\AirVentsCad\MakeDxfFromActiveDoc\MakeDxfFromActiveDoc\obj\Release\MakeDxfFromActiveDoc.Properties.Resources.resources
+D:\Vlad\AirVentsCad\MakeDxfFromActiveDoc\MakeDxfFromActiveDoc\obj\Release\MakeDxfFromActiveDoc.csproj.GenerateResource.Cache

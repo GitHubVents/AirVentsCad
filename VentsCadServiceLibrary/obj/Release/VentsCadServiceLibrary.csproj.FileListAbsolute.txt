@@ -1,0 +1,14 @@
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\VentsCadServiceLibrary.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\VentsCadServiceLibrary.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\VentsCadLibrary.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\AddinConvertTo.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\MakeDxfUpdatePartData.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\VentsCadLibrary.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\obj\Release\VentsCadServiceLibrary.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\obj\Release\VentsCadServiceLibrary.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\ExportPartData.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\PdmAsmBomToXml.dll
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\AddinConvertTo.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\ExportPartData.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\bin\Release\PdmAsmBomToXml.pdb
+D:\Vlad\AirVentsCad\VentsCadServiceLibrary\obj\Release\VentsCadServiceLibrary.csprojResolveAssemblyReference.cache

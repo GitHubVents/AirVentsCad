@@ -1,0 +1,93 @@
+﻿<UserControl x:Class="AirVentsCadWpf.DataControls.GenerateUnitNamesUc"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d">
+
+    <Grid Loaded="Grid_Loaded_1" Background="#FFFFFEFE" MinHeight="700" MinWidth="700">
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="344*"/>
+    
+        </Grid.ColumnDefinitions>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="23"/>
+            <RowDefinition Height="375"/>
+       
+           
+         
+     
+            <RowDefinition Height="18"/>
+        </Grid.RowDefinitions>
+        
+        <Grid HorizontalAlignment="Stretch" Grid.Row="1" VerticalAlignment="Stretch" Background="#FFF3E7E7"/>
+        <Grid HorizontalAlignment="Stretch" Grid.Row="4" VerticalAlignment="Stretch" Background="#FFF3E7E7" RenderTransformOrigin="0.5,3.2" Margin="0,79,0,-78"/>
+        
+        <Label Grid.Row="0" Content="Классификатор" HorizontalAlignment="Left" Margin="41,0,0,137" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="24" Height="42" VerticalAlignment="Bottom" Width="177"/>
+        
+        <!--<ComboBox x:Name="ComboBoxLoadVault" 
+                  Margin="98,30,0,0" VerticalAlignment="Top" Grid.Column="1" Height="22" HorizontalAlignment="Left" Width="117"/>-->
+        
+        <ComboBox x:Name="CmbTypeLane" VerticalAlignment="Top" 
+                 
+                  Margin="108,137,0,0" SelectionChanged="CmbTypeLane_SelectionChanged" Height="22" LayoutUpdated="CmbTypeLane_LayoutUpdated" HorizontalAlignment="Left" Width="226"/>
+        <ComboBox x:Name="CmbBlockType" VerticalAlignment="Top" 
+                  Margin="108,168,0,0" SelectionChanged="CmbBlockType_SelectionChanged" Height="22" LayoutUpdated="CmbBlockType_LayoutUpdated" HorizontalAlignment="Left" Width="226"/>
+        
+        <Label Content="Типоряд:" HorizontalAlignment="Left" Margin="34,133,0,0" VerticalAlignment="Top" Height="26" Width="59"/>
+        <Label Content="Тип блока:" HorizontalAlignment="Left" Margin="25,164,0,0" VerticalAlignment="Top" Height="26" Width="68"/>
+        
+        
+        
+        <DataGrid x:Name="DataGridSql" 
+                  Margin="25,0,26,23" 
+                  Grid.Row="3"
+                 
+                  IsReadOnly="True"
+                    HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                  SelectionChanged="DataGridSql_SelectionChanged" 
+                  RowHeight="30" 
+                  ColumnWidth="Auto" 
+                  SelectionMode="Extended" 
+                  BorderBrush="Gray" 
+                  BorderThickness="5"
+                 
+                  Background="LightGray" 
+                  RowBackground="LightYellow" RenderTransformOrigin="0.766,0.49"/>
+        <!--LIST CHECK BOX-->
+        
+        <ListBox x:Name="ListBoxTypeLine" 
+                 SelectionMode="Multiple"
+          
+                 Height="72" 
+                 Margin="361,37,26,0"
+                 VerticalAlignment="Top">
+            
+                    <CheckBox Name="chb30" 
+                              Content="Профиль 30 мм" Checked="chb30_Checked" Unchecked="chb30_Unchecked"/>
+                    <CheckBox Name="chb50" 
+                              Content="Профиль 50 мм" Checked="chb50_Checked" Unchecked="chb50_Unchecked"/>
+                    <CheckBox Name="chb70" 
+                              Content="Профиль 70 мм" Checked="chb70_Checked" Unchecked="chb70_Unchecked"/>
+                    <CheckBox Name="chbF" 
+                              Content="Бескаркасная" Checked="chbF_Checked" Unchecked="chbF_Unchecked"/>
+                  
+         
+        </ListBox>
+        
+       
+        <TextBox x:Name="ZoneText" Height="23" Margin="429,139,26,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top"/>
+
+        <Button x:Name="ButtonSave" Content="Сохранить имя узла" Margin="367,168,26,0" VerticalAlignment="Top" RenderTransformOrigin="0.138,0.022" Click="ButtonSave_Click" Height="22"/>
+        <Label Content="Имя узла:" HorizontalAlignment="Left" Margin="361,137,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,0.462" Height="26" Width="63"/>
+        
+        <!--<RadioButton x:Name="RBLeft" Content="Left" HorizontalAlignment="Left" Margin="361,114,0,0" VerticalAlignment="Top" Checked="RBLeft_Checked" Unchecked="RBLeft_Unchecked"/>-->
+        <!--<RadioButton x:Name="RBRight" Content="Right" HorizontalAlignment="Left" Margin="413,114,0,0" VerticalAlignment="Top" Checked="RBRight_Checked" Unchecked="RBRight_Unchecked"/>-->
+
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,3 @@
+InstallUtil ACadService.exe
+
+pause

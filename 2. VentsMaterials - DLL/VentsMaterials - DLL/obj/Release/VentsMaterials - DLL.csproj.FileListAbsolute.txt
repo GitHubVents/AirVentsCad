@@ -1,0 +1,5 @@
+D:\Vlad\AirVentsCad\2. VentsMaterials - DLL\VentsMaterials - DLL\bin\Release\VentsMaterials.dll
+D:\Vlad\AirVentsCad\2. VentsMaterials - DLL\VentsMaterials - DLL\bin\Release\VentsMaterials.pdb
+D:\Vlad\AirVentsCad\2. VentsMaterials - DLL\VentsMaterials - DLL\obj\Release\VentsMaterials.dll
+D:\Vlad\AirVentsCad\2. VentsMaterials - DLL\VentsMaterials - DLL\obj\Release\VentsMaterials.pdb
+D:\Vlad\AirVentsCad\2. VentsMaterials - DLL\VentsMaterials - DLL\obj\Release\VentsMaterials - DLL.csprojResolveAssemblyReference.cache
