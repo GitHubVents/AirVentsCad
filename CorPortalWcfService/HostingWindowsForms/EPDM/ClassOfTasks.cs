@@ -255,7 +255,7 @@ namespace HostingWindowsForms
                                 if (swConf.IsDerived()) continue;
                                     
                                 Area(confName.ToString());
-                                GabaritsForPaintingCamera(confName.ToString());
+                                //GabaritsForPaintingCamera(confName.ToString());
                             }
 
                             ExportDataToXmlSql(fileName, idPdm, revision);

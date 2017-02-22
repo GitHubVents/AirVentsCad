@@ -894,7 +894,7 @@ namespace VentsCadLibrary
             swCustPropForDescription.Set("Наименование", typeOfPanel[1]);
             swCustPropForDescription.Set("Description", typeOfPanel[1]);
 
-            GabaritsForPaintingCamera(swDoc);
+            //GabaritsForPaintingCamera(swDoc);
 
             swDoc.EditRebuild3();
             swDoc.ForceRebuild3(true);

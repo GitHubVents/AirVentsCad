@@ -2721,7 +2721,7 @@ namespace AirVentsCadWpf.AirVentsClasses.UnitsBuilding
             swCustPropForDescription.Set("Наименование", typeOfPanel[1]);
             swCustPropForDescription.Set("Description", typeOfPanel[1]);
 
-            GabaritsForPaintingCamera(swDoc);
+            //GabaritsForPaintingCamera(swDoc);
 
             swDoc.EditRebuild3();
             swDoc.ForceRebuild3(true);
@@ -3925,7 +3925,7 @@ namespace AirVentsCadWpf.AirVentsClasses.UnitsBuilding
             swCustPropForDescription.Set("Наименование", typeOfPanel[1]);
             swCustPropForDescription.Set("Description", typeOfPanel[1]);
 
-            GabaritsForPaintingCamera(swDoc);
+            //GabaritsForPaintingCamera(swDoc);
 
             swDoc.EditRebuild3();
             swDoc.ForceRebuild3(true);
@@ -4001,7 +4001,7 @@ namespace AirVentsCadWpf.AirVentsClasses.UnitsBuilding
                 MessageBox.Show($"{newName}\n{e.ToString()}\n{e.StackTrace}\n{newName}", "VentsMatdll 2");
             }
 
-            GabaritsForPaintingCamera(model);
+            //GabaritsForPaintingCamera(model);
 
             model?.Save();
         }
@@ -4659,7 +4659,7 @@ namespace AirVentsCadWpf.AirVentsClasses.UnitsBuilding
             _swApp.IActivateDoc2("10-4.SLDASM", false, 0);
             swDocMontageFrame = ((ModelDoc2) (_swApp.ActiveDoc));
 
-            GabaritsForPaintingCamera(swDocMontageFrame);
+            //GabaritsForPaintingCamera(swDocMontageFrame);
 
             swDocMontageFrame.ForceRebuild3(true);
 
@@ -5818,7 +5818,7 @@ namespace AirVentsCadWpf.AirVentsClasses.UnitsBuilding
                     return;
                 }
 
-                GabaritsForPaintingCamera(swDoc);
+                //GabaritsForPaintingCamera(swDoc);
 
                 swDoc.EditRebuild3();
                 swDoc.ForceRebuild3(false);

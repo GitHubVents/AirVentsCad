@@ -555,7 +555,7 @@ namespace VentsCadLibrary
                     _swApp.IActivateDoc2("10-4.SLDASM", false, 0);
                     swDocMontageFrame = ((ModelDoc2)(_swApp.ActiveDoc));
 
-                    GabaritsForPaintingCamera(swDocMontageFrame);
+                    //GabaritsForPaintingCamera(swDocMontageFrame);
 
                     swDocMontageFrame.ForceRebuild3(true);
 

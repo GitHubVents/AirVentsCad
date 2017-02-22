@@ -507,7 +507,7 @@ namespace VentsCadLibrary
             {
                 try
                 {
-                    GabaritsForPaintingCamera(_swApp.IActiveDoc2);
+                    //GabaritsForPaintingCamera(_swApp.IActiveDoc2);
                     _swApp.IActiveDoc2.Save();
                 }
                 catch (Exception e)
@@ -634,7 +634,7 @@ namespace VentsCadLibrary
                 }
                 if (newName == "") { return; }
 
-                GabaritsForPaintingCamera(swDoc);
+                //GabaritsForPaintingCamera(swDoc);
 
                 swDoc.EditRebuild3();
                 swDoc.ForceRebuild3(false);

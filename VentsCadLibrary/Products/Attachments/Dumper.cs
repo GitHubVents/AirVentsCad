@@ -991,7 +991,7 @@ namespace VentsCadLibrary
                 #endregion
 
                 swDoc = ((ModelDoc2)(_swApp.ActivateDoc2(nameAsm, true, 0)));
-                GabaritsForPaintingCamera(swDoc);               
+                //GabaritsForPaintingCamera(swDoc);               
 
                 swDoc.EditRebuild3();
                 swDoc.ForceRebuild3(true);

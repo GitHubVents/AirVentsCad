@@ -341,7 +341,7 @@ namespace MakeDxfUpdatePartData
                         //new Bends().Fix(swApp);
 
 
-                        GabaritsForPaintingCamera(swModel, configName);
+                        //GabaritsForPaintingCamera(swModel, configName);
                         //MessageBox.Show(" Размеры добавлены? ");
 
                         var confiData = new DataToExport

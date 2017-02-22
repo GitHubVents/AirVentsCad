@@ -1413,7 +1413,7 @@ namespace AirVentsCadWpf.AirVentsClasses.UnitsBuilding
             catch (Exception e){MessageBox.Show(e.ToString());}
 
             swDoc = ((ModelDoc2)(_swApp.ActiveDoc));
-            GabaritsForPaintingCamera(swDoc);
+            //GabaritsForPaintingCamera(swDoc);
             swDoc.ForceRebuild3(true);
             swDoc.ForceRebuild3(false);
 

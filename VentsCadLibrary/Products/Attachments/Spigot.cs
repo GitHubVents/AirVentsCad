@@ -306,7 +306,7 @@ namespace VentsCadLibrary
 
                 #endregion
 
-                GabaritsForPaintingCamera(swDoc);
+                //GabaritsForPaintingCamera(swDoc);
 
                 swDoc.ForceRebuild3(true);
                 swDoc.SaveAs2(ModelPath + ".SLDASM", (int)swSaveAsVersion_e.swSaveAsCurrentVersion, false, true);

@@ -1118,7 +1118,7 @@ namespace AirVentsCadWpf.AirVentsClasses.UnitsBuilding
             _swApp.ActivateDoc2(nameAsm, true, 0);
             swDoc = (ModelDoc2)   _swApp.ActiveDoc;
 
-          GabaritsForPaintingCamera(swDoc);
+        //  GabaritsForPaintingCamera(swDoc);
             swDoc.EditRebuild3();
             swDoc.ForceRebuild3(true);
             var name = $@"{Settings.Default.DestinationFolder}\{DamperDestinationFolder}\{newDamperName}";
@@ -1600,7 +1600,7 @@ namespace AirVentsCadWpf.AirVentsClasses.UnitsBuilding
 
             #endregion
 
-            GabaritsForPaintingCamera(swDoc);
+            //GabaritsForPaintingCamera(swDoc);
           
 
             swDoc.ForceRebuild3(true);
@@ -1954,7 +1954,7 @@ namespace AirVentsCadWpf.AirVentsClasses.UnitsBuilding
             
             #endregion
 
-            GabaritsForPaintingCamera(swDoc);
+            //GabaritsForPaintingCamera(swDoc);
 
             swDoc.ForceRebuild3(true);
             swDoc.SaveAs2(newRoofPath, (int)swSaveAsVersion_e.swSaveAsCurrentVersion, false, true);

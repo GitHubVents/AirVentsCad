@@ -3460,7 +3460,7 @@ namespace AirVentsCadWpf.AirVentsClasses.UnitsBuilding
             }
 
             swDoc = ((ModelDoc2)(_swApp.ActivateDoc2(nameAsm, true, 0)));
-            GabaritsForPaintingCamera(swDoc);
+            //GabaritsForPaintingCamera(swDoc);
 
             #endregion
 
